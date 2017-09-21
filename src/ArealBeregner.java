@@ -11,8 +11,8 @@ public class ArealBeregner {
         //udskriver hvad radius er
         System.out.println("Radius er " + radius);
         //udregner arealet vha. brugers input af radius
-        double resultat = radius * radius * 3.14;
+        double areal = radius * radius * 3.14;
         //Udskriver resultatet
-        System.out.println("Arealet er : " + resultat);
+        System.out.println("Arealet er : " + areal);
     }
 }
